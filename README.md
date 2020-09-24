@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
-- [CSS Gamification : Flexbox Defense](https://sabarish.hashnode.dev/css-gamification-flexbox-defense)
-- [CSS Gamification: Flexbox Froggy](https://sabarish.hashnode.dev/css-gamification-flexbox-froggy)
-- [Beginning my technical writing journey - How I decided to start a blog on Hashnode](https://sabarish.hashnode.dev/beginning-my-technical-writing-journey-how-i-decided-to-start-a-blog-on-hashnode)
+- [Tunneling using Ngrok - What, Why, and How to?](https://blog.sabarish.tech/tunneling-using-ngrok-what-why-and-how-to)
+- [CSS Gamification : Flexbox Defense](https://blog.sabarish.tech/css-gamification-flexbox-defense)
+- [CSS Gamification: Flexbox Froggy](https://blog.sabarish.tech/css-gamification-flexbox-froggy)
+- [Beginning my technical writing journey - How I decided to start a blog on Hashnode](https://blog.sabarish.tech/beginning-my-technical-writing-journey-how-i-decided-to-start-a-blog-on-hashnode)
 <!-- HASHNODE:END -->
