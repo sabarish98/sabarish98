@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact about me: I love dogs!
 
 ## Connect with me:
-[<img height="32" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/sabarishcodes) 
-[<img height="32" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://hashnode.com/@sabarish) 
-[<img height="32" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sabarishrajamohan98) 
-[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sabarish Rajamohan's DEV Profile" height="32" width="36px">](https://dev.to/sabarishcodes) 
+[<img height="32" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/sabarishcodes) 
+[<img height="32" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://hashnode.com/@sabarish) 
+[<img height="32" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sabarishrajamohan98) 
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sabarish Rajamohan's DEV Profile" height="32" width="46px">](https://dev.to/sabarishcodes) 
 
 ## Languages and Tools that I work with:
 
