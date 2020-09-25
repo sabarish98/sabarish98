@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on contributing to open source and participating in **HacktoberFest**
 - 🌱 I’m currently learning Javascript, Tailwind CSS
 - 👯 I’m looking to collaborate with others and work on open-source projects as well
-- ⚡ Fun fact about me: I love dogs!
+- ⚡ Fun fact about me: I love dogs ~ I am big fan/binge watcher of series and sitcoms ~ I love to hit some sixers across the boundary line with my cricket bat :p
 
 ## Connect with me:
 [<img height="32" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/sabarishcodes) 
