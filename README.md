@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 -->
 ## I am a B.Tech IT Graduate and a Software Developer
 
-- 🔭 I’m currently working on contributing to open source and participating in **HacktoberFest**
-- 🌱 I’m currently learning Javascript, Tailwind CSS
+- 🌱 I’m currently learning Javascript, improving my Ruby skills and preparing for AWS Certifications
 - 👯 I’m looking to collaborate with others and work on open-source projects as well
-- ⚡ Fun fact about me: I love dogs ~ I am big fan/binge watcher of series and sitcoms ~ I love to hit some sixers across the boundary line with my cricket bat :p
+- ⚡ Fun fact about me: I love dogs ~ I am big fan/binge watcher of series and sitcoms :p
 
 ## Connect with me:
 [<img height="32" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/sabarishcodes) 
@@ -36,10 +35,9 @@ Here are some ideas to get you started:
 
 ## My Latest Blog Posts
 <!-- HASHNODE:START -->
-- [Hashnode Technical Writing Bootcamp Experience](https://blog.sabarish.tech/hashnode-technical-writing-bootcamp-experience)
-- [How to install Ruby in your local environment](https://blog.sabarish.tech/how-to-install-ruby-in-your-local-environment)
-- [Why Ruby in 2020?](https://blog.sabarish.tech/why-ruby-in-2020)
-- [What is Object Relational Mapping?](https://blog.sabarish.tech/what-is-object-relational-mapping)
-- [The Github Student Developer Pack for Beginners and Students](https://blog.sabarish.tech/the-github-student-developer-pack-for-beginners-and-students)
+- [Hashnode Technical Writing Bootcamp Experience](https://sabarish.hashnode.dev/hashnode-technical-writing-bootcamp-experience)
+- [How to install Ruby in your local environment](https://sabarish.hashnode.dev/how-to-install-ruby-in-your-local-environment)
+- [Why Ruby in 2020?](https://sabarish.hashnode.dev/why-ruby-in-2020)
+- [What is Object Relational Mapping?](https://sabarish.hashnode.dev/what-is-object-relational-mapping)
 <!-- HASHNODE:END -->
-➡️    [View more posts..](https://blog.sabarish.tech)
+➡️    [View more posts..](https://sabarish.hashnode.dev)
