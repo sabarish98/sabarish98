@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-## I am a Software Engineer predominantly working in Ruby on Rails, .NET and occasionally in EmberJS
+## I am a Software Engineer, predominantly working in Ruby on Rails, .NET and occasionally in EmberJS
 
 - 🌱 I’m currently learning Javascript, improving my Ruby skills
 - 👯 I’m looking to collaborate with others and work on open-source projects as well
@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 - [What is Object Relational Mapping?](https://sabarish.hashnode.dev/what-is-object-relational-mapping)
 <!-- HASHNODE:END -->
 ➡️    [View more posts..](https://sabarish.hashnode.dev)
+
+## HacktoberFest 2022
+
+[![@sabarish1712's Holopin board](https://holopin.me/sabarish1712)](https://holopin.io/@sabarish1712)
+
