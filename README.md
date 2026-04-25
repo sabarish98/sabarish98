@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 ## I am a Software Engineer, predominantly working in Ruby on Rails, .NET and occasionally in EmberJS
 
-- 🌱 I’m currently learning Javascript, improving my Ruby skills
+- 🌱 I’m currently figuring out and tinkering with LLMs and building agents.
 - 👯 I’m looking to collaborate with others and work on open-source projects as well
 - ⚡ Fun fact about me: I love dogs ~ I am big fan/binge watcher of series and sitcoms :p
 
@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 ## Languages and Tools that I work with:
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Javascript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> 
 <img align="left" alt="Ruby" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
 <img align="left" alt="Rails" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png">
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> 
@@ -41,8 +37,4 @@ Here are some ideas to get you started:
 - [What is Object Relational Mapping?](https://sabarish.hashnode.dev/what-is-object-relational-mapping)
 <!-- HASHNODE:END -->
 ➡️    [View more posts..](https://sabarish.hashnode.dev)
-
-## HacktoberFest 2022
-
-[![@sabarish1712's Holopin board](https://holopin.me/sabarish1712)](https://holopin.io/@sabarish1712)
 
